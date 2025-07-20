@@ -1,0 +1,9 @@
+Project Sdk=Microsoft.NET.Sdk
+  PropertyGroup
+    OutputTypeExeOutputType
+    TargetFrameworknet6.0TargetFramework
+    RootNamespaceMathSeriesSolverRootNamespace
+    AssemblyNameMathSeriesSolverAssemblyName
+    DescriptionAdvanced Mathematical Series CalculatorDescription
+  PropertyGroup
+Project
